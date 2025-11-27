@@ -1,0 +1,21 @@
+As the sole tester, I embraced full ownership of the project's quality, ensuring delivery certainty and driving strategic quality initiatives beyond my core responsibilities.
+
+1. End-to-End Quality & Delivery: I single-handedly managed all testing—Functional, Regression, Performance, API, DB, and Integration. My Daily Sanity and Build Verification Testing ensured daily build stability, saving the team significant debugging time. My commitment, including extended hours and weekends for releases, was pivotal in delivering milestones on time and within budget.
+
+2. Strategic Impact & Leadership:
+
+· Test Strategy: I architected an organization-wide Test Strategy, providing a standardized framework for quality processes.
+· Knowledge Sharing: I conducted 3-4 Brown Bag sessions on this strategy and Automation, upskilling the team and fostering a quality-first culture.
+· Product Owner Role: I acted as PO for DCH and PS, collaborating directly with the Network Governance team to gather requirements and define scope, ensuring alignment and reducing rework.
+
+3. Proactive Risk Mitigation & Innovation: My testing prevented critical issues:
+
+· Uncovered a severe API security flaw that could have led to unauthorized data access.
+· Identified a performance memory leak that would have caused a production outage.
+  I built our test automation framework from scratch usingSelenium and Java, which has already reduced regression testing time by 20%.
+
+4. Commitment to Growth: I completed 80+ hours of self-learning in tools like Selenium, Postman, and JMeter, directly applying this knowledge to enhance our capabilities.
+
+5. Future Goals: I plan to pursue a Cloud Security certification, integrate automation deeper into CI/CD, and formalize mentorship to scale QA knowledge as the team grows.
+
+In summary, I have transitioned from a test executor to a strategic quality owner, directly contributing to the project's success and the organization's goals of delivery certainty, risk reduction, and innovation.
